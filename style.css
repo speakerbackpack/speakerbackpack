@@ -1,0 +1,51 @@
+.banner3 {
+		background: url("img/style 4.0.png")center;
+		height:100
+}
+.banner2 {
+		 background: url("img/style 2.0.jpg")center;
+		 height:250
+}
+.banner {
+		
+		 background: url("img/style 2.0.jpg")center;
+		 height:500
+		 
+}
+
+body {
+					
+					font-family: "The Next Font", cursive, TheNextFont;
+					font-size: 35px;
+					background: #ffffff;
+					padding: 0px;
+					margin: 0px
+				
+				
+					
+					
+}
+
+.menu {
+	padding: 10px;
+	font-size: 45px
+	background: #FFFFFF;
+	text-align: center
+	
+}
+
+
+.content {
+	margin: 0px auto;
+	
+	max-width: 1000px
+	
+	
+}
+
+a {
+	color: #000000;
+}
+
+.footer {
+}
